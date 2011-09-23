@@ -1,0 +1,6 @@
+!!! 5
+%html
+  %body
+    %h1 Hello
+    - for ($i = 0; $i < 10; $i++)
+      = $app['hamlphp']->render('_partial.haml', array('i' => $i))

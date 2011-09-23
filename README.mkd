@@ -1,0 +1,9 @@
+# HamlPHP for Silex micro-framework
+
+This extension provides HamlPHP template engine for Silex micro-framework.
+
+Works with PHP 5.3.2 or later.
+
+## License
+
+This extension is licensed under MIT license.
